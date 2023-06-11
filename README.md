@@ -7,8 +7,11 @@ Web-based Voice Recognition Kiosk
 studies
 
 html : https://github.com/WanJuKong/html-practice
+
 javascript : -
+
 css : -
+
 python(NLP, AI) : -
 
 
