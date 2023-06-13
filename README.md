@@ -6,7 +6,7 @@ Web-based Voice Recognition Kiosk
 
 studies
 
-html : https://github.com/WanJuKong/html-practice
+html : https://github.com/WanJuKong/html
 
 javascript : -
 
