@@ -8,7 +8,7 @@ studies
 
 html : https://github.com/WanJuKong/html
 
-javascript : -
+javascript : https://github.com/WanJuKong/JavaScript
 
 css : -
 
