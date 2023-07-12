@@ -12,6 +12,8 @@ javascript : https://github.com/WanJuKong/JavaScript
 
 css : https://github.com/WanJuKong/CSS
 
+php : -
+
 python(NLP, AI) : -
 
 
@@ -22,4 +24,13 @@ stt : https://github.com/WanJuKong/stt
 tts : -
 
 chatbot : -
-(google cloud API 활용):wq
+(google cloud API 활용)
+
+
+기타 진행상황 :
+
+apache (7/7)
+localhost + ssl(openssl, mkcert) -> https://localhost (7/8) - 실패
+
+
+환경 : virtualbox ubuntu 7.0.4 r154605 (Qt5.15.2)
