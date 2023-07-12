@@ -24,12 +24,14 @@ stt : https://github.com/WanJuKong/stt
 tts : -
 
 chatbot : -
+
 (google cloud API 활용)
 
 
 기타 진행상황 :
 
 apache (7/7)
+
 localhost + ssl(openssl, mkcert) -> https://localhost (7/8) - 실패
 
 
