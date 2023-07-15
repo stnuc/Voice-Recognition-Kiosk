@@ -30,9 +30,16 @@ chatbot : -
 
 기타 진행상황 :
 
-apache (7/7)
+apache [7/7]
 
-localhost + ssl(openssl, mkcert) -> https://localhost (7/8) - 실패
+localhost + ssl(openssl, mkcert) -> https://localhost [7/8]
+
+google api tts [7/13]
+
+google api stt(js: ajax, php: curl) [7/13~14]
+
+NGINX [7/14]
+
 
 
 환경 : virtualbox ubuntu 7.0.4 r154605 (Qt5.15.2)
