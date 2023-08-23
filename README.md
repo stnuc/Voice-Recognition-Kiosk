@@ -21,11 +21,11 @@ python(NLP, AI) : -
 
 stt : https://github.com/WanJuKong/stt
 
-tts : -
+tts : https://github.com/WanJuKong/tts
 
 chatbot : https://github.com/WanJuKong/chatbot
 
-database : https://github.com/WanJuKong/database
+web(UI) : https://github.com/WanJuKong/database
 
 (google cloud API 활용)
 
