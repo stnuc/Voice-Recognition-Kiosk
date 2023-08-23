@@ -23,7 +23,7 @@ stt : https://github.com/WanJuKong/stt
 
 tts : -
 
-chatbot : -
+chatbot : https://github.com/WanJuKong/chatbot
 
 database : https://github.com/WanJuKong/database
 
